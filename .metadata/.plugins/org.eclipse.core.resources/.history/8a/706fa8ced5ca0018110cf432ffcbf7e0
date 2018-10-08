@@ -1,0 +1,8 @@
+package org.tutorial.compare;
+
+public class LoginDemo {
+	public static void main(String[] args) {
+		String id = arg[0];
+		
+	}
+}
