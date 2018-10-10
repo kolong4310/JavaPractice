@@ -1,0 +1,8 @@
+package org.tutorial.io;
+
+public class ScannerDemo {
+	
+	public static void main(String[] args) {
+		
+	}
+}
