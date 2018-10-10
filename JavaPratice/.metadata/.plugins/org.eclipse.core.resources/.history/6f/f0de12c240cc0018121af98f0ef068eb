@@ -1,0 +1,9 @@
+package org.tutorial.array;
+
+public class DefineDemo {
+	public static void main(String[] args) {
+		
+		String[] classGroup ={"ÃÖÁøÇö", "ÃÖÀ¯ºó", "ÇÑ¾Æ¶÷","±èÃ·Áö"};
+		System.out.println(classGroup[0]);
+	}
+}
