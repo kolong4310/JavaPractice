@@ -1,0 +1,16 @@
+package org.tutorial.io;
+
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+public class ScannerDemo3 {
+	public static void main(String[] args) {
+		try{
+			File file = new File("out.txt");
+			Scanner sc = new Scanner(file);
+			while(sc.hasNextInt())
+		}catch(FileNotFoundException e){
+			e.printStackTrace();
+		}
+	}
+}

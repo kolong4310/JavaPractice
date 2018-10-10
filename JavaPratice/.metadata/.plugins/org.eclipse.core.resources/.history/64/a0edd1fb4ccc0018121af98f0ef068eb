@@ -1,0 +1,13 @@
+package org.tutorial.io;
+
+import java.io.FileNotFoundException;
+
+public class ScannerDemo3 {
+	public static void main(String[] args) {
+		try{
+			
+		}catch(FileNotFoundException e){
+			e.printStackTrace();
+		}
+	}
+}
