@@ -1,7 +1,6 @@
 package org.tutorial.object;
 class Calculator{
-	static double PI= 3.14; 
-	static int base = 0;
+	static double PI= 3.14;
 	int left, right;
 	
 	public void setOprands(int left, int right){
@@ -10,7 +9,7 @@ class Calculator{
 	}
 	
 	public void sum(){
-		System.out.println(this.left+this.right +base);
+		System.out.println(this.left+this.right);
 		
 	}
 	
@@ -33,13 +32,5 @@ public class CalculatorDemo3 {
 		c2.sum();
 		c2.avg();
 		
-		System.out.println(c1.PI);
-		System.out.println(Calculator.PI);
-		
-		
-		Calculator.base = 10;
-		
-		c1.sum();
-		c2.sum();
 	}
 }

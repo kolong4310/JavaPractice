@@ -38,8 +38,5 @@ public class CalculatorDemo3 {
 		
 		
 		Calculator.base = 10;
-		
-		c1.sum();
-		c2.sum();
 	}
 }

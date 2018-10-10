@@ -10,7 +10,7 @@ class Calculator{
 	}
 	
 	public void sum(){
-		System.out.println(this.left+this.right +base);
+		System.out.println(this.left+this.right);
 		
 	}
 	
@@ -36,10 +36,5 @@ public class CalculatorDemo3 {
 		System.out.println(c1.PI);
 		System.out.println(Calculator.PI);
 		
-		
-		Calculator.base = 10;
-		
-		c1.sum();
-		c2.sum();
 	}
 }
