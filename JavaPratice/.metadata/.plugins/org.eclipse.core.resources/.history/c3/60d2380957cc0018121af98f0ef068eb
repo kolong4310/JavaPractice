@@ -1,0 +1,16 @@
+package org.tutorial.object;
+
+class Calculator3{
+	public static void sum(int left,int rigft){
+		
+	}
+}
+
+public class CalculatorDemo4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Calculator3
+	}
+
+}
