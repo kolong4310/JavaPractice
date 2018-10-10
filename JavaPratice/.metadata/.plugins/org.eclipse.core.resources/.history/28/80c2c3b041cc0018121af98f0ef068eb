@@ -1,0 +1,11 @@
+package org.tutorial.array;
+
+public class ArrayLoopDemo {
+	public static void main(String[] args) {
+		
+		String[] members = {"최진혁","이라함","김슬기"};
+		for(int i=0; i<members.length; i++){
+			String member = members[i];
+		}
+	}
+}
