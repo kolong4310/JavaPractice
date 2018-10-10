@@ -1,0 +1,9 @@
+package org.tutorial.method;
+
+public class MethodDemo {
+
+	
+	public static void main(String[] args) {
+		
+	}
+}

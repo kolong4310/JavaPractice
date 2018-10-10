@@ -1,0 +1,15 @@
+package org.tutorial.method;
+
+public class MethodDemo {
+	public static String numbering(int a, int b){
+		int i = a;
+		String output ="";
+	}
+	
+	public static void main(String[] args) {
+		// 메소드 numbering이 리턴한 값이 변수 result에 담긴다.
+		String result= numbering(1,5);
+		// result의 값을 화면에 출력한다
+		System.out.println(result);
+	}
+}
