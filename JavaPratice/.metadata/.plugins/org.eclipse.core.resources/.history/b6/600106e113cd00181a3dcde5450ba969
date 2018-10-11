@@ -1,0 +1,9 @@
+package org.tutorial.scope;
+
+public class ScopeDemo4 {
+	static int i=5;
+	
+	public static void main(String[] args) {
+		
+	}
+}
