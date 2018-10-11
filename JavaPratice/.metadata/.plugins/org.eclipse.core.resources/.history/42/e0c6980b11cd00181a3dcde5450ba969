@@ -1,0 +1,11 @@
+package org.tutorial.scope;
+
+public class ScopeDemo{
+	
+}
+
+public class ScopeDemo {
+	public static void main(String[] args) {
+		
+	}
+}
