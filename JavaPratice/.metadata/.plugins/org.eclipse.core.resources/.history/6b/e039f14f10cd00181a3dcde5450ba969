@@ -15,7 +15,7 @@ public class CalculatorDemo4 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Calculator3.sum(10, 20);
-		Calculator3.avg(10, 22);
+		Calculator3.avg(10, 20);
 	}
 
 }
